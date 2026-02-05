@@ -1,0 +1,275 @@
+brand,category,avg_sentiment,review_count
+The Laundress,Household Chemicals,0.930188888888889,9
+Happy Family,Food,0.9251222222222223,9
+Weleda,Personal Care,0.8928875000000001,8
+Simply Shabby Chic,Brand Shop,0.8446083333333334,12
+Bedtime Originals,Baby,0.8384166666666667,6
+Mrs. Meyer's,Household Essentials,0.8381241379310345,29
+CHI,Personal Care,0.8368571428571429,14
+Kiss,Beauty,0.8353400355871886,562
+Barielle,Personal Care,0.8318,8
+Era,Household Chemicals,0.8313272727272728,11
+Iman,Personal Care,0.8277352941176471,17
+Sinful,Personal Care,0.820325,8
+Jergens,Personal Care,0.8152333333333333,9
+J.R. Watkins,Personal Care,0.78132,10
+Concept Housewares,Kitchen & Dining,0.7802,8
+Tide,Household Chemicals,0.7794065747613999,1886
+CRITERION COLLECTION INC,Movies,0.7787666666666667,39
+Biokleen,Household Chemicals,0.7784375,8
+Teenage Mutant Ninja Turtles,Kids' Rooms,0.77418,5
+Naturtint,Personal Care,0.7719,5
+L'oreal Paris,Beauty,0.7691458041958041,2288
+Juice Beauty,Personal Care,0.7651866666666667,60
+Sony Music,Movies,0.7642454545454545,66
+The Honest Company,Household Chemicals,0.7618358974358974,39
+Head & Shoulders,Personal Care,0.7574111504424779,565
+Mill Creek,Personal Care,0.75122,15
+Disney,Featured Brands,0.7500833333333333,24
+Kraus,Home Improvement,0.7446405405405405,37
+Yes to Carrots,Personal Care,0.739769696969697,66
+J. Hunt,Home,0.73732,5
+Ben & Jerry's,Food,0.7371909090909091,11
+Roommates,Home,0.7352333333333334,12
+Wild Planet,Food,0.734425,8
+NYX,Personal Care,0.7329736363636363,110
+Jolly Time,Food,0.7242185185185185,27
+Ogx,Personal Care,0.7233421052631579,38
+ANCHOR BAY,Movies,0.7179933333333334,30
+Universal Home Video,Featured Brands,0.7168135753176044,5510
+Maaya Home,Furniture,0.7166037037037037,27
+Lionsgate,Movies,0.7163323076923077,715
+Tom's of Maine,Personal Care,0.7160814814814814,27
+Storkcraft,Baby,0.7156635338345865,266
+Trend Lab,Baby,0.7150818181818182,11
+Summit Entertainment,Movies,0.7143142857142858,7
+Aussie,Personal Care,0.7132010526315788,95
+Disney,Movies,0.712170092693566,3668
+Pantene,Personal Care,0.7116744791666667,192
+Paramount Pictures,Movies,0.7080865853658537,328
+Idahoan,Food,0.7071909090909091,11
+Olay,Personal Care,0.7046866081871346,3420
+Burt's Bees,Personal Care,0.6929336787564767,965
+Smead,School & Office Supplies,0.6916231404958678,121
+Axe,Personal Care,0.6903305084745763,59
+Colorganics,Personal Care,0.6900999999999999,9
+Avery,Office,0.6893234920634921,315
+Vaseline,Personal Care,0.6867662790697674,258
+JLA Home,Home,0.6862555555555556,9
+Warner Bros.,Movies,0.684463746701847,1895
+Universal Home Video,Movies,0.6827483532934132,668
+Baby Banana,Gift Finder,0.6826,19
+UNIVERSAL STUDIOS HOME ENTERT.,Movies,0.6824342857142858,70
+Lush Decor,Home,0.6814454545454546,11
+South Shore,Furniture,0.6795666666666667,6
+Zyliss,Kitchen & Dining,0.6779355932203389,59
+Mrs. Smith's,Food,0.6760181818181819,11
+SC Johnson,Household Chemicals,0.6759375000000001,8
+Sony Music,Music on CD or Vinyl,0.6758284916201117,179
+Physician's Formula,Personal Care,0.675459090909091,22
+Annie's,Food,0.67469,10
+Eagle Brand,Food,0.6738333333333333,15
+Krusteaz,Food & Beverage,0.67374375,16
+Clorox,Household Chemicals,0.6719257402101242,2094
+Summit Entertainment,Movies & TV Shows,0.6717332923832924,814
+Lionsgate,Featured Brands,0.671643396226415,53
+Lundberg,Food,0.6714669014084507,426
+Wish-Bone,Food,0.67058,5
+Caribou Coffee,Food & Beverage,0.6696,7
+Mrs. Meyer's,Household Chemicals,0.6694,21
+Suave,Personal Care,0.6688340807174888,223
+Sony,Movies,0.6683714285714286,7
+Cuisinart,Kitchen & Dining,0.6683336206896552,116
+Hoover,Home,0.667097311827957,372
+L'Oreal Paris,Personal Care,0.66558695490123,2683
+Ust,Home,0.6640666666666666,9
+Warner Manufacturing,Movies,0.6639714285714285,7
+Milani,Personal Care,0.6637875,24
+Honeywell,Home,0.6589516129032258,310
+Nivea,Personal Care,0.6585432432432432,222
+Universal Music,Music on CD or Vinyl,0.65835,34
+Stauffer's,Food,0.6561400000000001,15
+Pleasant Hearth,Home,0.6552793103448276,58
+J.a. Henckels,Kitchen & Dining,0.6547111111111111,9
+Clorox,Household Essentials,0.6543052637694632,8606
+Cetaphil,Personal Care,0.6526,7
+Dermalogica,Personal Care,0.65145,12
+Mrs. Meyer's,Personal Care,0.6506233333333333,30
+Vornado,Home,0.6494590909090909,22
+Tree Hut,Personal Care,0.649251724137931,29
+FOX,Movies & TV Shows,0.6469203434610304,757
+Shea Moisture,Personal Care,0.645930693069307,101
+Schwarzkopf,Beauty,0.64458,10
+UNIVERSAL HOME ENTERTAINMENT,Movies,0.6436166666666666,12
+Benadryl,Health,0.6419906976744186,43
+Cream of Wheat,Food,0.6402892857142858,56
+Nature's Path,Food,0.6394714285714286,7
+Banana Boat,Personal Care,0.635313698630137,73
+Conair,Beauty,0.6338012820512821,78
+Delta Faucet,Home Improvement,0.6307833333333334,24
+Nature Valley,Food & Beverage,0.6298396825396826,63
+Nutri-Grain,Food,0.628728125,32
+Way Basics,Home,0.6284090909090909,11
+Cheetos,Food,0.62698,60
+Care Free Curl,Personal Care,0.6262307692307693,13
+Warner Music Group,Music on CD or Vinyl,0.6259721951219512,205
+Africa's Best,Personal Care,0.6255333333333334,9
+Warner Bros.,Featured Brands,0.6191559999999999,25
+Northwest,Home,0.617825,8
+Starbucks,Food & Beverage,0.6160428571428571,7
+Creme Of Nature,Personal Care,0.6106166666666667,12
+Pinaud,Personal Care,0.6093333333333334,6
+Starbucks Coffee,Food & Beverage,0.60833125,32
+Baxter of California,Personal Care,0.6023125,8
+Wea,Movies,0.6011769230769232,65
+Sabra,Home,0.6007769230769231,13
+Almay,Personal Care,0.5997142857142858,28
+Warner Home Video,Movies,0.5995701201201201,3330
+Power Crunch,Food,0.599495,40
+Trend,School & Office Supplies,0.5981333333333333,6
+Curel,Personal Care,0.5976469135802469,81
+Target.com Use Only,Movies,0.5968809667673716,331
+Weather Tech,Auto & Tires,0.5962583333333333,12
+Coty,Personal Care,0.592859748427673,159
+Bumble Bee,Food,0.5915090909090909,22
+UMGD,Movies,0.5909060606060607,33
+Pleasant Hearth,Home Improvement,0.5898074074074073,54
+TRESemme,Personal Care,0.5846948275862069,58
+Keebler,Food,0.5846647058823529,34
+KIND,Food,0.5836133333333333,30
+Softsoap,Personal Care,0.582009219858156,141
+Meguiars,Home,0.5815738461538462,65
+Clear Scalp & Hair Therapy,Personal Care,0.5810090185676393,377
+Lionsgate,Movies & TV Shows,0.5795861063464838,583
+Caress,Personal Care,0.5770073529411764,68
+Australian Gold,Personal Care,0.571354054054054,37
+Hollywood Beauty,Personal Care,0.5703333333333334,6
+Chex,Food,0.5696448275862069,29
+Sea Gull Lighting,Home,0.5695428571428571,7
+Reebok,Clothing,0.5695,5
+Bounce,Household Chemicals,0.5691712643678161,87
+Lady Mitchum,Personal Care,0.5683451612903226,31
+FOX,Movies,0.5669470997059609,3741
+MaraNatha,Food,0.5663789473684211,19
+Safavieh,Home,0.56626,5
+The Seaweed Bath Co.,Personal Care,0.5662333333333334,9
+Nesco,Kitchen & Dining,0.56502,10
+Lumisource,Home,0.5634709677419355,31
+Lean Cuisine,Food,0.5591475247524752,101
+Lionsgate Home Entertainment,Movies,0.5572645833333333,48
+Sony,Electronics,0.5563846796657381,359
+Finish,Household Essentials,0.5559069767441861,43
+Foodsaver,Kitchen & Dining,0.5541502555366269,587
+Fiber One,Food & Beverage,0.5540392857142857,28
+Chester's,Food,0.5536491620111732,179
+Hawaiian Punch,Food,0.5517170454545455,88
+International Delight,Food,0.550910447761194,67
+Idesign,Kitchen & Dining,0.5505882352941176,17
+Quilted Northern,Household Essentials,0.550408617095205,1439
+Stander,Health,0.5500076923076923,13
+Johnson's,Personal Care,0.54996875,16
+Eggo,Food & Beverage,0.5486740740740741,27
+Solo Foods,Food,0.5461230769230769,13
+Badger,Personal Care,0.54384,5
+Nearly Natural,Home,0.53811,10
+Neutrogena,Personal Care,0.534760396039604,101
+Mario Badescu,Personal Care,0.53308,5
+Lemi Shine,Household Essentials,0.5288394799054373,423
+CoverGirl,Personal Care,0.5284366666666667,30
+Yes to Grapefruit,Personal Care,0.5273025641025642,39
+Sizzix,Home,0.52679375,16
+Sony Pictures,Movies,0.525920083294771,2161
+Cinnamon Toast Crunch,Food,0.5244472440944882,127
+Tillamook,Food,0.5224,6
+Pantene,Beauty,0.5218419006479481,463
+Tide,Household Essentials,0.5218324757004001,3498
+Cetaphil,Beauty,0.5203744680851063,47
+CeraVe,Personal Care,0.516072,25
+American Atelier,Holiday Shop,0.5118458333333333,24
+Stridex,Personal Care,0.5088473684210527,19
+Queen Helene,Personal Care,0.508675,16
+Pendaflex,School & Office Supplies,0.5078940217391305,368
+Just For Men,Personal Care,0.5061973557692308,416
+American Crew,Personal Care,0.5014608695652174,23
+Canada Dry,Food & Beverage,0.5014069767441861,43
+Summer's Eve,Personal Care,0.5011714285714286,35
+4C Foods,Food,0.5000333333333333,6
+Progresso,Food,0.5000034482758621,29
+Cerave,Beauty,0.49240666666666666,15
+Ragu,Food,0.4915816666666667,60
+Bisquick,Food & Beverage,0.48823838383838386,99
+Planters,Food,0.4833095238095238,42
+Sally Hansen,Personal Care,0.482146218487395,119
+Universal,Movies & TV Shows,0.4804,6
+Metzeler,Auto & Tires,0.48033076923076923,13
+Tostitos,Food,0.4775299651567944,287
+Chips Ahoy,Food & Beverage,0.47707183098591555,71
+Holmes,Home,0.47259375000000003,32
+Soothing Touch,Personal Care,0.46984999999999993,6
+Sc252nci,Featured Brands,0.46963,10
+Murray Cookies,Food,0.46763333333333335,6
+BETTER BUILT,Auto & Tires,0.46612499999999996,12
+Spam,Food,0.46555,8
+Mitchum,Personal Care,0.46139090909090913,11
+Windex,Household Essentials,0.460196551724138,348
+Lysol,Household Chemicals,0.45914732142857145,336
+Attitude,Household Chemicals,0.4576833333333334,6
+Super PoliGrip,Personal Care,0.4574416666666667,24
+Biore,Personal Care,0.4564725,40
+Fiskars,Home,0.45434,5
+Air Wick,Household Essentials,0.4542,20
+Opti-Free,Personal Care,0.45079865470852015,223
+Maybelline,Personal Care,0.44949150943396227,742
+Soft Scrub,Household Chemicals,0.448575,8
+Nojo,Baby,0.44806250000000003,8
+Kohler,Home Improvement,0.44753750000000003,8
+STACY'S,Food,0.4454461538461538,26
+Kikkoman,Food,0.44492000000000004,5
+Chobani,Food & Beverage,0.43972,25
+Keri,Personal Care,0.432856,25
+D-Con,Household Essentials,0.43078571428571427,7
+Anti Monkey Butt,Personal Care,0.42875882352941175,68
+Hugo Naturals,Personal Care,0.4286,11
+Vicks,Personal Care,0.4283686868686869,99
+Samsung,Mobile,0.42823597560975607,328
+Lite Source,Home,0.4267875,8
+Early California,Food,0.42667647058823527,17
+Moom,Personal Care,0.42546,5
+Newman's Own,Food,0.42262727272727274,11
+Jerdon,Beauty,0.41513333333333335,9
+Orajel,Personal Care,0.40878196721311477,61
+Bengay,Personal Care,0.40586666666666665,9
+Oxy,Personal Care,0.3997833333333333,12
+Olly,Health,0.3943535714285714,28
+Wheat Thins,Food,0.389775,12
+Colorbok,Home,0.3892538461538461,13
+Hormel,Food,0.3877872509960159,251
+Biotene,Personal Care,0.37195084745762713,177
+Musselman's,Food,0.371625,8
+OxiClean,Household Chemicals,0.35689130434782607,138
+Pioneer,Home,0.3547666666666667,12
+Michelin,Auto & Tires,0.3452090909090909,11
+All-Bran,Food,0.34306363636363635,11
+Nielsen,Home,0.33750833333333335,12
+Obagi,Personal Care,0.32174,10
+Aveeno,Personal Care,0.31697828054298643,442
+Rubbermaid,Household Essentials,0.3136039711191336,1939
+Plano,Sports & Outdoors,0.3014,5
+Nordic Games,Video Games,0.29793333333333333,12
+Bestway,Sports & Outdoors,0.2960875,8
+Tai Pei,Food,0.29529,20
+Wagan,Home,0.29274,5
+Attwood,Sports & Outdoors,0.27875,6
+K-Y,Personal Care,0.2564666666666667,27
+Rubbermaid Lock-Its,Kitchen & Dining,0.2524142857142857,14
+Arrid,Personal Care,0.24701666666666666,18
+Hidden Valley,Food & Beverage,0.23258,5
+Mars,Food & Beverage,0.21525,10
+Gain,Household Essentials,0.1998333333333334,6
+Feit,Home,0.1756111111111111,9
+Nexxus,Personal Care,0.15132069857697283,773
+Klondike,Food,0.12582,5
+Karaoke Usa,Musical Instruments & Karaoke,0.08888000000000003,5
+Newman's Own Organics,Food,0.07409999999999999,6
+Suncoat,Personal Care,-0.012480000000000002,5
+Lay's,Food,-0.08679999999999999,6
