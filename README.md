@@ -2,7 +2,7 @@
 
 ML pipeline for analyzing customer reviews and generating sentiment-based product recommendations.
 
-*Features
+***Features**
 
 - **Sentiment Analysis**: VADER sentiment analysis on customer reviews
 - **Brand/Category Extraction**: Automated extraction from structured data
