@@ -1,15 +1,13 @@
-# Product Review Analysis - Sentiment-Driven Recommendations
+**Product Review Analysis - Sentiment-Driven Recommendations**
 
 ML pipeline for analyzing customer reviews and generating sentiment-based product recommendations.
 
-## 🎯 Features
+*Features
 
 - **Sentiment Analysis**: VADER sentiment analysis on customer reviews
 - **Brand/Category Extraction**: Automated extraction from structured data
 - **Recommendation Engine**: Sentiment-driven product recommendations
 - **Dockerized Deployment**: Container-ready for easy deployment
-
-## 🚀 Quick Start
 
 ### Option 1: Docker (Recommended)
 ```bash
@@ -31,7 +29,7 @@ pip install -r requirements.txt
 python test_pipeline.py
 ```
 
-## 📊 Results
+## Results
 
 Output: `output/recommendations.csv` with brand-category recommendations ranked by sentiment scores.
 
@@ -40,7 +38,7 @@ Output: `output/recommendations.csv` with brand-category recommendations ranked 
 - Happy Family (Food) - 93% positive sentiment
 - Weleda (Personal Care) - 89% positive sentiment
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 src/
@@ -53,20 +51,20 @@ src/
 └── recommender.py      # Recommendation generation
 ```
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.10+
 - pandas, numpy, vaderSentiment
-- Docker (optional)
+- Docker 
 
-## 🔍 Validation
+##  Validation
 
 The pipeline processes 50K+ reviews and generates actionable recommendations. Success metrics:
-- ✅ Sentiment scores: -1 to +1 range
-- ✅ Review count filtering: Minimum threshold applied
-- ✅ Brand-category coverage: 100+ combinations analyzed
+-  Sentiment scores: -1 to +1 range
+-  Review count filtering: Minimum threshold applied
+-  Brand-category coverage: 100+ combinations analyzed
 
-## 📈 ML Pipeline
+##  ML Pipeline
 
 1. **Data Ingestion**: Load review data
 2. **Preprocessing**: Clean and map columns  
